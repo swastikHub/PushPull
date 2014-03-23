@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("simple change");
 		System.out.println("from office commited");
+		System.out.println("from home commited");
 
 
 	}
